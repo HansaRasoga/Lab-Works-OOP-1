@@ -1,4 +1,4 @@
-public class PrintBill {
+public class UserInformation {
     public static void main(String [] args)
     {
         System.out.println("USER INFORMATION");
