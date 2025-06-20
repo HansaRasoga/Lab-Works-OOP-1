@@ -13,7 +13,7 @@ public class Q7
         double fahrenheit = (celsius * 9 / 5) + 32;
 
         // Display result
-        System.out.printf("Temperature in Fahrenheit = "+ fahrenheit);
+        System.out.println("Temperature in Fahrenheit = "+ fahrenheit);
 
         scanner.close();
     }
