@@ -12,8 +12,10 @@ public class BMICal
         System.out.print("Enter 1 or 2: ");
         int choice = scanner.nextInt();
 
+        // Variable to hold the calculated BMI
         double bmi = 0;
 
+        // Input based on user's choice
         if (choice == 1) 
         {
             // Metric input
